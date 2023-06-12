@@ -1,0 +1,4 @@
+Please note that you will need a version of ace (http://reasoning.cs.ucla.edu/ace/) to run this code. Please follow the link to donwload it.
+The path to the compile program can be specified in the experiment settings
+
+experiments setups are stored in papers/uai23
